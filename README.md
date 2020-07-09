@@ -1,1 +1,1 @@
-# NasirNobin
+I'm Nasir and I love to code since I was a kid. I'm very passionate about what I'm doing. I use JavaScript and PHP most of the time. I use to develop Wordpress Plugin and Themes. Also, I love to build programs that automate tasks.
