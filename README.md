@@ -2,5 +2,5 @@ Howdy, I'm Nasir and I love to write codes since I was a kid. I'm very passionat
 
 As for the technical side: 
 - I'm professionally experienced in Laravel, PHP, Vue.js for building applications.
-- I try not to limit myself to a specific stack. I use Python, Node.js, Bash Scripting all the time for building automation scripts.
+- I try not to limit myself to a specific stack. I use Python, Node.js, Bash Scripting all the time to build automation scripts.
 - I also use Serverless, Docker, Ubuntu, AWS, and other cloud stuff as needed to deploy applications in scalable infrastructure!
