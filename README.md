@@ -1,6 +1,6 @@
 ## [![NasirNobin](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0093F7&background=18FF0000&vCenter=true&height=25&lines=👋+Hi!+This+is+@NasirNobin)](https://twitter.com/NasirNobin)
 
-Proactive and dedicated full-stack engineer with over 7+ years of experience and a strong passion for creating innovative solutions. Experienced in leading development teams and building, deploying, and scaling SaaS applications.
+Proactive and dedicated full-stack engineer with over 10+ years of experience and a strong passion for creating innovative solutions. Experienced in leading development teams and building, deploying, and scaling SaaS applications.
 
 **📦 Core Competencies..**
 - Leading development teams, sprint planning, task management, and performing code reviews.
